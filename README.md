@@ -1,6 +1,6 @@
-# 💼 Gaurav's Portfolio
+# 💼 Harsh's Portfolio
 
-🌐 Live Website: [faisalfolio.vercel.app](https://faisalfolio.vercel.app/)
+🌐 
 
 Welcome to the source code repository for my personal developer portfolio. This site showcases my projects, skills, resume, and contact information in a modern and responsive design.
 
